@@ -64,7 +64,7 @@
 
     </dependencies>
     <build>
-        <finalName>mkyong</finalName>
+        <finalName>proiect</finalName>
         <plugins>
 
             <!-- Package as an executable jar/war -->
